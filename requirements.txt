@@ -4,3 +4,8 @@ faiss-cpu
 pandas
 numpy
 scikit-learn
+fastapi
+uvicorn
+pandas
+faiss-cpu
+sentence-transformers
