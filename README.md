@@ -3,8 +3,8 @@
 A semantic search-based tool that recommends the most relevant SHL assessments based on a job description or query.
 
 ## 🔗 Live Demo
-- Streamlit UI: [[https://your-app.streamlit.app](https://shlassesment-ojaswa.streamlit.app/)](#)
-- FastAPI API: [[https://shl-api.onrender.com/recommend](https://shl-assesment-0l04.onrender.com)](#)
+- Streamlit UI: https://shlassesment-ojaswa.streamlit.app/
+- FastAPI API: https://shl-assesment-0l04.onrender.com/recommend
 
 ## 💡 How It Works
 - Scrapes SHL's official product catalog
